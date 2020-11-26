@@ -1,1 +1,1 @@
-Sitemap: https://moltenmuffins.github.io/blog/sitemap.xml
+Sitemap: https://evantkchong.com/sitemap.xml
