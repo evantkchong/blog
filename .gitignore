@@ -1,3 +1,4 @@
+# Default FastPages gitignore
 *.swp
 ~*
 *~
@@ -11,3 +12,6 @@ _notebooks/.ipynb_checkpoints
 .netlify
 .tweet-cache
 __pycache__
+
+# Additional
+.vscode
