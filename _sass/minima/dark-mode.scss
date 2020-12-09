@@ -80,3 +80,16 @@ table td{
 canvas {
     filter: invert(100%);
 }
+
+.site-header {
+    border: none;
+}
+
+.site-header a:hover {
+    color: $med-emph !important;
+    text-decoration: none !important;
+}
+
+.site-footer {
+    border: none;
+}
