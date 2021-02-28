@@ -7,8 +7,7 @@ eval "$(ssh-agent -s)"
 
 ######## Run notebook/word converter ########
 # word converter using pandoc
-# /fastpages/word2post.sh
-
+/fastpages/word2post.sh
 # notebook converter using nbdev
 cp /fastpages/settings.ini .
 python /fastpages/nb2post.py
